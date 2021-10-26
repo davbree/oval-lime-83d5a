@@ -41,7 +41,7 @@ sections:
         justifyContent: flex-start
         flexDirection: row-reverse
         borderRadius: full
-        borderWidth: 0
+        borderWidth: 4
         borderStyle: none
         borderColor: border-complementary-alt
       title:
