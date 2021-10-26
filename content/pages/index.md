@@ -40,7 +40,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: xx-small
+        borderRadius: medium
         borderWidth: 4
         borderStyle: dashed
         borderColor: border-complementary-alt
