@@ -43,7 +43,7 @@ sections:
         borderRadius: medium
         borderWidth: 4
         borderStyle: double
-        borderColor: border-complementary-alt
+        borderColor: border-complementary
       title:
         fontWeight: 700
         fontStyle: normal
