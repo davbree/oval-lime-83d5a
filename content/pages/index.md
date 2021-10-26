@@ -38,7 +38,7 @@ sections:
           - pt-3
           - pb-3
         alignItems: flex-end
-        justifyContent: flex-start
+        justifyContent: flex-end
         flexDirection: row-reverse
         borderRadius: full
         borderWidth: 4
