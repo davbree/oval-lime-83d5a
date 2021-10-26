@@ -37,7 +37,7 @@ sections:
         padding:
           - pt-3
           - pb-3
-        alignItems: center
+        alignItems: flex-end
         justifyContent: center
         flexDirection: row
         borderRadius: none
