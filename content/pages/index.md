@@ -42,7 +42,7 @@ sections:
         flexDirection: row-reverse
         borderRadius: full
         borderWidth: 4
-        borderStyle: none
+        borderStyle: dashed
         borderColor: border-complementary-alt
       title:
         fontWeight: 700
