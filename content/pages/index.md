@@ -33,7 +33,7 @@ sections:
         width: wide
         margin:
           - mt-4
-          - mb-0
+          - mb-4
         padding:
           - pt-3
           - pb-3
