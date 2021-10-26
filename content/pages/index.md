@@ -40,7 +40,7 @@ sections:
         alignItems: flex-end
         justifyContent: flex-start
         flexDirection: row-reverse
-        borderRadius: none
+        borderRadius: full
         borderWidth: 0
         borderStyle: none
         borderColor: border-neutral
