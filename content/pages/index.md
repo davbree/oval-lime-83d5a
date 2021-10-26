@@ -39,7 +39,7 @@ sections:
           - pb-3
         alignItems: flex-end
         justifyContent: flex-end
-        flexDirection: row-reverse
+        flexDirection: row
         borderRadius: full
         borderWidth: 4
         borderStyle: dashed
