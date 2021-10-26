@@ -222,7 +222,7 @@ sections:
       and you could immediatly let us know if you want in or not.
     feature:
       type: ImageBlock
-      url: /images/contact.png
+      url: /images/desmond-eagle.jpg
       altText: Fisherman holding lobster
     form:
       type: FormBlock
