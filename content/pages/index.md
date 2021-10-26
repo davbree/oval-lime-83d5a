@@ -39,7 +39,7 @@ sections:
           - pb-3
         alignItems: flex-end
         justifyContent: flex-start
-        flexDirection: col
+        flexDirection: col-reverse
         borderRadius: none
         borderWidth: 0
         borderStyle: none
