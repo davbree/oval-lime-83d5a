@@ -30,7 +30,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-4
           - mb-4
